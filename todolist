@@ -1,5 +1,14 @@
 1. Calibrate images
+   a. Adjust cameras in a good position (same y values for both cameras)
+   b. Find out a way to take pictures without moving the phone
+	- Duct tape to a box 90 degrees
+   c. Obtain  
+
 
 2. C code to calculate distance
+   a. What IDE (program) are we using?
+   b. Actually write the algorithm
+   c. Information must be transferrable to program in #3
 
 3. Display information in 3d space
+   a. Blender?
